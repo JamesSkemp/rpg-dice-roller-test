@@ -1,0 +1,20 @@
+{
+  "name": "rpg-dice-roller-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "run": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Skemp <strivinglife@gmail.com> (https://jamesrskemp.com/)",
+  "license": "ISC",
+  "private": true,
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "@dice-roller/rpg-dice-roller": "^5.1.0"
+  }
+}
